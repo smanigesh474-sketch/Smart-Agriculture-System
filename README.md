@@ -25,3 +25,6 @@ Traditional irrigation methods require manual monitoring and often lead to water
 - Wokwi
 - Arduino IDE
 - GitHub
+
+Wokwi Simulation:
+https://wokwi.com/projects/467073804606295041
